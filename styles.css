@@ -6,5 +6,12 @@
 }
 
 .container {
+    height: 400px;
+    background-color: pink;
+
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
