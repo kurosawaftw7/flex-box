@@ -1,4 +1,10 @@
 .box {
     height: 300px;
     width: 300px;
+    border: 30px solid purple;
+    background: yellow;
+}
+
+.container {
+    display: flex;
 }
